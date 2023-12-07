@@ -76,7 +76,8 @@ I also tried to identify employees who have left the company and calculate their
 
 
 This project integrates SQL queries to extract and analyze a wide range of employee-related data, generating insights critical for making informed HR and business decisions.
-
+### Dashboard:
+![Uploading Screenshot 2023-10-19 121608.png…]()
 
 ### INSIGHTS:
 
