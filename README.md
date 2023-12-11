@@ -36,7 +36,7 @@ Transform the insights into meaningful KPIs.
 Create an interactive Power BI dashboard to visualize the KPIs.
 The main goal is to extract insightful data and statistics to support different HR and business choices. We have a series of questions, and we will take them one after the other in this article.
 
-### Employee Overview: 
+### Employee Overview:
 First, I perform a basic query to obtain all employee entries in order to get a comprehensive view of the employee data.
 
 
@@ -59,14 +59,17 @@ Comparing the average bonus percentages across different departments helps asses
 I also identified which department boasts the highest average bonus percentage, aiding in assessing performance and rewards, and that proved to be the accounting department with an average bonus of 11.83%.
 
 
-### Employee Tenure: By identifying employees who exited within their first year and those who’ve been with the company for over 10 years, we analyze retention patterns and employee loyalty.
+### Employee Tenure:
+By identifying employees who exited within their first year and those who’ve been with the company for over 10 years, we analyze retention patterns and employee loyalty.
 
 
 
-### Business Unit Salaries: To assist with resource allocation and planning, we compute the total yearly salary cost for each business unit. Specialty products have the highest salary expenditure, with a total of $29.3 million.
+### Business Unit Salaries: 
+To assist with resource allocation and planning, we compute the total yearly salary cost for each business unit. Specialty products have the highest salary expenditure, with a total of $29.3 million.
 
 
-### City-Based Analysis: Understanding the average age of employees in each city may guide HR strategies tailored to specific locations.
+### City-Based Analysis: 
+Understanding the average age of employees in each city may guide HR strategies tailored to specific locations.
 
 
 I also figured out who the company’s top five earners are; this information may be important for evaluating pay and identifying talent.
